@@ -1,7 +1,7 @@
 export default function Acciones() {
   const acciones = [
     { nombre: "Comprar", color: "from-[#0A1F4B] to-[#1D3C7A]" },
-    { nombre: "Vender", color: "from-[#E2E646] to-[#C8D000]" },
+    { nombre: "Vender", color: "from-[#0A1F4B] to-[#1D3C7A]" },
     { nombre: "Alquilar", color: "from-[#0A1F4B] to-[#081637]" }
   ];
 

@@ -26,7 +26,7 @@ export default function VendeConNosotros() {
         {/* Imagen */}
         <div className="flex-1">
           <div className="rounded-lg overflow-hidden shadow-lg">
-            <img src="/zona1.jpg" alt="Vende con Soluna" className="w-full h-[400px] object-cover" />
+            <img src="/Soluna.png.jpg" alt="Vende con Soluna" className="w-full h-[400px] object-cover" />
           </div>
         </div>
 
